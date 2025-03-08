@@ -64,6 +64,8 @@ This chatbot uses NLP techniques like tokenization, lemmatization, and TF-IDF ve
 
 # THIS IS THE INPUT FILE (i.e about cinema)
 
+[codtech_task_3.txt](https://github.com/user-attachments/files/19143945/codtech_task_3.txt)
+
 
 # HERE IS THE OUTPUT FOR THE CODE
 
