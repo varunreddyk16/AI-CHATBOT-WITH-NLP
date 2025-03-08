@@ -62,6 +62,13 @@ Main Conversation Loop:
 The chatbot starts by introducing itself and waits for user input. If the user types "bye," the chatbot ends the conversation. If the user inputs a greeting, the chatbot responds with a random greeting. Otherwise, it processes the input, generates a response, and continues the conversation.
 This chatbot uses NLP techniques like tokenization, lemmatization, and TF-IDF vectorization to understand and respond to user inputs. It can handle greetings and generate responses based on the similarity between the user's input and the preprocessed text. The code is designed to be simple and easy to understand, making it a good starting point for building more advanced chatbots.
 
+# THIS IS THE INPUT FILE (i.e about cinema)
+
+
+# HERE IS THE OUTPUT FOR THE CODE
+
+![Image](https://github.com/user-attachments/assets/d2c32b79-03f3-4d35-8080-e79bd8f1d559)
+
 # THANK YOU FOR READING #
 
 
